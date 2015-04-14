@@ -1,2 +1,0 @@
-# CenturyLinkCodeChallenge
-CenturyLink code challenge
